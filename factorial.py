@@ -6,5 +6,5 @@ def factorial(n):
 
 
 if __name__ == "__main__":
-    n = 7
+    n = 6
     print(f"Factorial of {n} is {factorial(n)}")
